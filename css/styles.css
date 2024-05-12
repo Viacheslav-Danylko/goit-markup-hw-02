@@ -45,7 +45,7 @@ ul {
   text-decoration: none;
 }
 
-.solutions .solutions-logo-w {
+.solutions-logo-w {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
   color: #4d5ae5;
@@ -55,11 +55,11 @@ ul {
   text-transform: uppercase;
 }
 
-.solutions .solutions-logo-w-s {
+.solutions-logo-w-s {
   color: #2e2f42;
 }
 
-.solutions .solutions-studio {
+.solutions-studio {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
