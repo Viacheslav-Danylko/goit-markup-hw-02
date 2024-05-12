@@ -8,12 +8,12 @@ body
     background-color: #ffffff;
   }
 
-a {
+/* a {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 4%;
     text-decoration: underline;
-  }
+  } */
 
 h1 {
   font-weight: bold;
@@ -35,12 +35,6 @@ ul {
   list-style-type: none;
 }
 
-.foot-text {
-  font-size: 12px;
-  line-height: 14px;
-  letter-spacing: 4%;
-}
-
 .solutions a {
   text-decoration: none;
 }
@@ -59,7 +53,7 @@ ul {
   color: #2e2f42;
 }
 
-.solutions-studio {
+.solutions .solutions-studio {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -84,4 +78,10 @@ ul {
 
 .solutions-cont-mail:hover, .solutions-cont-mail:active {
   color: #404bbf;
+}
+
+.foot-text {
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 4%;
 }
