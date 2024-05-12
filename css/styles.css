@@ -82,6 +82,6 @@ ul {
   color: #434455;
 }
 
-.solutions-cont-mail:hover, .solutions-cont-mail:active {
+.solutions .solutions-cont-mail:hover, .solutions .solutions-cont-mail:active {
   color: #404bbf;
 }
