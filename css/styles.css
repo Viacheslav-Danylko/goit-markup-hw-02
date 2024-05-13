@@ -20,11 +20,6 @@ h2 {
   font-size: 36px;
 }
 
-h3 {
-  font-weight: 500;
-  font-size: 20px;
-}
-
 ul {
   list-style-type: none;
 }
@@ -97,6 +92,17 @@ ul {
 
 .effect-but:hover, .effect-but:focus {
   background-color: #404bbf;
+}
+
+.empty-list {
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.empty-p {
+  letter-spacing: 0.02em;
 }
 
 .foot-text {
