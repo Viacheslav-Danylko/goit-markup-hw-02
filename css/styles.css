@@ -53,7 +53,7 @@ ul {
   color: #2e2f42;
 }
 
-.solutions .solutions-studio {
+.solutions .solutions-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -61,7 +61,7 @@ ul {
   color: #2e2f42;
 }
 
-.solutions-studio:hover, .solutions-studio:active { 
+.solutions-list:hover, .solutions-list:focus { 
   color: #404bbf;
 }
 
@@ -69,14 +69,14 @@ ul {
   font-style: normal;
 }
 
-.solutions-cont-mail {
+.solutions-cont-mt {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.solutions-cont-mail:hover, .solutions-cont-mail:active {
+.solutions-cont-mt:hover, .solutions-cont-mt:active {
   color: #404bbf;
 }
 
