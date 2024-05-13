@@ -15,12 +15,6 @@ body
     text-decoration: underline;
   } */
 
-h1 {
-  font-weight: bold;
-  font-size: 56px;
-  line-height: 60px;
-}
-
 h2 {
   font-weight: bold;
   font-size: 36px;
@@ -76,8 +70,33 @@ ul {
   color: #434455;
 }
 
-.solutions-cont-mt:hover, .solutions-cont-mt:active {
+.solutions-cont-mt:hover, .solutions-cont-mt:focus {
   color: #404bbf;
+}
+
+.effect {
+  background-color: #2e2f42;
+}
+
+.effect-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+
+.effect-but {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.effect-but:hover, .effect-but:focus {
+  background-color: #404bbf;
 }
 
 .foot-text {
