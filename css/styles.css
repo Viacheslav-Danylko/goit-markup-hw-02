@@ -18,6 +18,11 @@ body
 h2 {
   font-weight: bold;
   font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 ul {
@@ -102,6 +107,22 @@ ul {
 }
 
 .empty-p {
+  letter-spacing: 0.02em;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-nf {
+  background-color: #FFFFFF;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-job {
   letter-spacing: 0.02em;
 }
 
